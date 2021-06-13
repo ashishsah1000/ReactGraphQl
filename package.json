@@ -1,0 +1,27 @@
+{
+  "name": "reactgraphql",
+  "version": "1.0.0",
+  "description": "Learning Graph QL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishsah1000/ReactGraphQl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishsah1000/ReactGraphQl/issues"
+  },
+  "homepage": "https://github.com/ashishsah1000/ReactGraphQl#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
